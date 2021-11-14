@@ -34,17 +34,34 @@ Si no volver a paso 7.
 
 
 Y Si tenemos:
- 
+
+![imagen](https://user-images.githubusercontent.com/71668076/141694333-7e60955a-afc0-4378-aeb4-6f335b4d3a75.png)
+
+
 Tenemos dos primos p y q, p=3 y q = 11, los multiplicaremos entre ellos, dandonos N= p*q = 3 * 11 = 33, claro que si fueramos el atacante lo resolveriamos muy rapido con una claves asi, ya que dos numeros que multiplicados entre si me den 33, bueno esto si es sencillo para este paso pero recordemos que p y q son numeros primos enormes.
-Bueno ahora usaremos la formula de  
+Bueno ahora usaremos la formula de :
+
+![imagen](https://user-images.githubusercontent.com/71668076/141694340-facac716-ef77-46ae-bb40-af84b5160df8.png)
+
 Dandonos:
+
+![imagen](https://user-images.githubusercontent.com/71668076/141694345-94670e9e-f71a-4f4f-adad-37db8fb977c2.png)
+
  
 Ademas debemos de escoger un ‘e’ que sea menor a phi φ y ahora hay que calcular D
+
+![imagen](https://user-images.githubusercontent.com/71668076/141694351-1c26daec-5e83-48f2-be48-0df7bd5accbb.png)
  
 7 por d es congruente a 1 mod 20 y el resultado nos da 4, ahora tendremos nuestra clave publica y privada (7,33) y (4, 33), y ahora le puedo dar la clave publica a las personas que vayan a recibir un mensaje,y ellos apartir del (7,33) no podran sacar que yo tengo el (4,33).
 Ahora para encriptar y desencriptar es de la siguiente manera:
+ 
+![imagen](https://user-images.githubusercontent.com/71668076/141694361-a86fed1c-66e4-4807-8057-e0b62f845e8a.png)
+
  
 Parece sencillo pero recordemos que ‘e’ puedes ser un numero mucho mayor y para descifrar seria con el mensaje encriptado elevado a D mod n.
  
 SEGURIDAD RSA
 La seguridad de este algoritmo radica en que no hay maneras rápidas conocidas de factorizar un número grande en sus factores primos utilizando computadoras tradicionales.
+
+![imagen](https://user-images.githubusercontent.com/71668076/141694366-936a6464-cf36-4359-9fdb-e2974dca8a41.png)
+
