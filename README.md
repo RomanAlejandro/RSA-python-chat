@@ -12,12 +12,6 @@ Cuando se envía un mensaje, el emisor busca la clave pública de cifrado del re
 UN POCO DE HISTORIA
 Un poco de historia, este es inventado 1977 y lleva la primera letra del apellido de sus creadores Ron Rives, Adi Shamir y Leonard Adleman, formando asi el algoritmo RSA, esta basa su fortaleza en la dificultad de factorizar de dos numeros primos grandes, algo que es de alta dificulta para la capacidad de las computadoras.
  
-LAS MATEMATICAS DETRÁS DE RSA
-Conforme pasaba el tiempo se fue convirtiendo en un estandar y funciona de la siguiente manera:
-Alice  n = p*q 
-Bob  p*q
-Siendo p y q, números primos de 512 bits aun que en la actualidad es recomendable que sea de 1024 bits, los valores de p y q seran las claves secretas.
-La idea es complicada pero una forma sencilla de explicarlo es:
 
 ALGORITMO DEL PROGRAMA
 1.	INICIO
