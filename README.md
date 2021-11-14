@@ -64,4 +64,5 @@ SEGURIDAD RSA
 La seguridad de este algoritmo radica en que no hay maneras rápidas conocidas de factorizar un número grande en sus factores primos utilizando computadoras tradicionales.
 
 ![imagen](https://user-images.githubusercontent.com/71668076/141694366-936a6464-cf36-4359-9fdb-e2974dca8a41.png)
+![imagen](https://user-images.githubusercontent.com/71668076/141700768-9ec1420f-09c2-49b1-b0fb-5dce02ae2bb7.png)
 
