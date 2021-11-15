@@ -72,3 +72,24 @@ Corremos primero el servidor y después el cliente:
  ![imagen](https://user-images.githubusercontent.com/71668076/141857981-d5d807ca-2ab0-4fd7-993a-3949ec35a78d.png)
 
 Para cliente ingresamos valores, debemos usar números primos grandes para hacer la operación y garantizar que con una computadora normal no pueda descifrarlo, ya que como sabemos los números primos son complejos de procesar.
+
+# EJEMPLO
+Para servidor:
+![imagen](https://user-images.githubusercontent.com/71668076/141858891-5b647323-79bf-4248-8d59-5d0ccc7f09c2.png)
+
+P = 367 y Q = 541
+No dará muchos valores que son enormes y escogeremos uno para e:
+![imagen](https://user-images.githubusercontent.com/71668076/141858918-3f854172-2dce-428e-b636-977ed72b892a.png)
+
+Ahora esperaremos la llave publica de la otra persona (cliente) :
+![imagen](https://user-images.githubusercontent.com/71668076/141858976-7e8ef276-8d8d-4d9b-b899-4ee6b9989396.png)
+
+P = 199 y Q = 211
+No dará muchos valores que son enormes y escogeremos uno para e
+![imagen](https://user-images.githubusercontent.com/71668076/141859152-0467f2fd-0137-4439-9744-6c4f2e251242.png)
+![imagen](https://user-images.githubusercontent.com/71668076/141859355-575b15a3-d6cf-4d04-beb8-d733a3ecf05d.png)
+![imagen](https://user-images.githubusercontent.com/71668076/141859392-90fcb5f2-2e5b-4421-9be7-8e9c76893d7e.png)
+![imagen](https://user-images.githubusercontent.com/71668076/141859468-e744a0e7-20c6-41d1-a87d-07016dc578da.png)
+Y así pueden estar mandándose mensajes hasta recibir un bye, chau o adios:
+![imagen](https://user-images.githubusercontent.com/71668076/141859560-5ecfa9df-89d6-47dc-a139-ae7ef01dc4a1.png)
+
