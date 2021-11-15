@@ -75,6 +75,7 @@ Para cliente ingresamos valores, debemos usar números primos grandes para hacer
 
 # EJEMPLO
 Para servidor:
+
 ![imagen](https://user-images.githubusercontent.com/71668076/141858891-5b647323-79bf-4248-8d59-5d0ccc7f09c2.png)
 
 P = 367 y Q = 541
