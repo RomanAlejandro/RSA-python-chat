@@ -66,7 +66,7 @@ Ahora para encriptar y desencriptar es de la siguiente manera:
 Parece sencillo pero recordemos que ‘e’ puedes ser un numero mucho mayor y para descifrar seria con el mensaje encriptado elevado a D mod n.
  
 # SEGURIDAD RSA :lock_with_ink_pen:
-La seguridad de este algoritmo radica en que no hay maneras rápidas conocidas de factorizar un número grande en sus factores primos utilizando computadoras tradicionales.
+La seguridad de este algoritmo radica en que sus calculos son base a numeros primos los cuales son dificiles de calcular con una maquina tradicional, para poder vulnerar este algoritmo se requiere una gran portencia de computo, no afirmo que sea anti vulneraciones pero si es un algoritno nuy robusto, como lo que mandamos son nuestras llaves publicas no pasaria nada si las interseptan ya que requieren de nuestra llave privada para poder descifrar lo que dice el mensaje
 
 ![imagen](https://user-images.githubusercontent.com/71668076/141694366-936a6464-cf36-4359-9fdb-e2974dca8a41.png)
 ![imagen](https://user-images.githubusercontent.com/71668076/141700768-9ec1420f-09c2-49b1-b0fb-5dce02ae2bb7.png)
