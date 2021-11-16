@@ -13,10 +13,11 @@ Una clave es un número de gran tamaño, que una persona puede conceptualizar co
 Cuando se envía un mensaje, el emisor busca la clave pública de cifrado del receptor y una vez que dicho mensaje llega al receptor, éste se ocupa de descifrarlo usando su clave oculta.
 
 UN POCO DE HISTORIA
+
 Un poco de historia, este es inventado 1977 y lleva la primera letra del apellido de sus creadores Ron Rives, Adi Shamir y Leonard Adleman, formando asi el algoritmo RSA, esta basa su fortaleza en la dificultad de factorizar de dos numeros primos grandes, algo que es de alta dificulta para la capacidad de las computadoras.
  
 
-ALGORITMO DEL PROGRAMA
+# ALGORITMO DEL PROGRAMA
 1.	INICIO
 2.	Hacemos los cálculos de parámetros (p,q,n,e)
 3.	Sacamos la Llave pública (n,e).
