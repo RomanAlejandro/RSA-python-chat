@@ -74,7 +74,7 @@ La seguridad de este algoritmo radica en que sus calculos son base a numeros pri
 
 
 
-# CORRER EL PROGRAMA 
+# CORRER EL PROGRAMA :octocat:
 Corremos primero el servidor y después el cliente:
 
 ![imagen](https://user-images.githubusercontent.com/71668076/141857981-d5d807ca-2ab0-4fd7-993a-3949ec35a78d.png)
