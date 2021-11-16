@@ -103,10 +103,10 @@ No dará muchos valores que son enormes y escogeremos uno para e
 Y así pueden estar mandándose mensajes hasta recibir un bye, chau o adios:
 ![imagen](https://user-images.githubusercontent.com/71668076/141859560-5ecfa9df-89d6-47dc-a139-ae7ef01dc4a1.png)
 
-# FIN
+# FIN :coffee:
 Este proyecto fue algo desafiante ya que no recordaba mucho como programar, pero bien dice el sabio, lo que bien se aprende
 jamas se olvida.
-# RESUMEN
+# RESUMEN :notebook:
 En resumen solo necesitas que tu programa haga esto:
 
 PROCESO RSA (algoritmo)
@@ -119,14 +119,14 @@ SABER COMO CIFRAR Y DESCIFRAR UN MENSAJE (rsa)
  - DESCIFRA: Con tu propia llave privada :key::unlock:
  
 INVESTIGAR SOBRE SOCKET (para establecer una conexion con otra terminal)
- - MANDAR MENSAJE
- - RESPONDERLO
+ - MANDAR MENSAJE :mailbox_with_mail:
+ - RESPONDERLO :e-mail: :mailbox_with_no_mail:
  - INTERCAMBIAR LAS LLAVES PUBLICAS (que este lo tengo en un apartado de la carpeta serialización)
 
 # HERRAMIENTA DE ELABORACIÓN DE DIAGRAMAS DE FLUJO:
  - https://lucid.app
 
-# FUENTES:
+# FUENTES: :pushpin:
  - https://docs.python.org/es/3.9/library/socket.html
  - https://docs.python.org/es/3/library/pickle.html
  - https://rico-schmidt.name/pymotw-3/socket/tcp.html
