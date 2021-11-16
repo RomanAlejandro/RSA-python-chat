@@ -78,7 +78,7 @@ Corremos primero el servidor y después el cliente:
 
 Para cliente ingresamos valores, debemos usar números primos grandes para hacer la operación y garantizar que con una computadora normal no pueda descifrarlo, ya que como sabemos los números primos son complejos de procesar.
 
-# EJEMPLO
+# EJEMPLO CORRIENDO EL PROGRAMA
 Para servidor:
 
 ![imagen](https://user-images.githubusercontent.com/71668076/141858891-5b647323-79bf-4248-8d59-5d0ccc7f09c2.png)
