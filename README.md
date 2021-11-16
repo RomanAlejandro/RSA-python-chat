@@ -121,15 +121,16 @@ INVESTIGAR SOBRE SOCKET (para establecer una conexion con otra terminal)
 
 
 # FUENTES:
-https://docs.python.org/es/3.9/library/socket.html
-https://docs.python.org/es/3/library/pickle.html
-https://rico-schmidt.name/pymotw-3/socket/tcp.html
-https://pythontic.com/modules/socket/udp-client-server-example
-https://stackoverflow.com/questions/53576851/socket-programming-in-python-using-pickle
-https://www.youtube.com/watch?v=Lbfe3-v7yE0&t=324s&ab_channel=sentdex
-https://docs.python.org/3/library/stdtypes.html
-https://www.youtube.com/watch?v=ojX9YPxhoX0&list=LL&index=2&t=166s&ab_channel=LuisMunoz
-https://www.youtube.com/watch?v=kiowXySiuP8&list=LL&index=29&ab_channel=DavidAlejandroNinaRojas
+ - https://docs.python.org/es/3.9/library/socket.html
+ - https://docs.python.org/es/3/library/pickle.html
+ - https://rico-schmidt.name/pymotw-3/socket/tcp.html
+ - https://pythontic.com/modules/socket/udp-client-server-example
+ - https://stackoverflow.com/questions/53576851/socket-programming-in-python-using-pickle
+ - https://www.youtube.com/watch?v=Lbfe3-v7yE0&t=324s&ab_channel=sentdex
+ - https://docs.python.org/3/library/stdtypes.html
+ - https://www.youtube.com/watch?v=ojX9YPxhoX0&list=LL&index=2&t=166s&ab_channel=LuisMunoz
+ - https://www.youtube.com/watch?v=kiowXySiuP8&list=LL&index=29&ab_channel=DavidAlejandroNinaRojas
+
  
 # HERRAMIENTA DE ELABORACIÓN DE DIAGRAMAS DE FLUJO:
 https://lucid.app
