@@ -1,11 +1,11 @@
-Los dos archivos que debes de descargar solo son "persona1-servidor" y "persona2-receptor"
+Los dos archivos que debes de descargar solo son persona1-servidor.py y persona2-receptor.py
 
 WINDOWS
 Abriremos dos ventanas de cmd / terminal y nos ubicaremos en la carpeta donde se encuentren nuestros archivos,
  lo vamos a correr de forma local, en una pantalla de cmd / terminal donde vamos a correr “PERSONA1-SERVIDOR.py” 
-para esto debemos poner: “python persona1-servidor.py” y darle ENTER, recordando que debemos tener python además 
+para esto debemos poner: python persona1-servidor.py y darle ENTER, recordando que debemos tener python además 
 de estar en la carpeta donde están nuestros archivos .py, ahora haremos lo mismo para “PERSONA2-CLIENTE.py” 
-solo que en esta ventana de cmd / terminal pondremos “python persona2-cliente.py”.
+solo que en esta ventana de cmd / terminal pondremos python persona2-cliente.py.
 
 LINUX
 Abriremos dos de nuestras terminales de Linux, debemos tener nuestra última versión de python y estar ubicados dentro 
