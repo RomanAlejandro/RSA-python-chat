@@ -102,6 +102,7 @@ Y así pueden estar mandándose mensajes hasta recibir un bye, chau o adios:
 # FIN
 Este proyecto fue algo desafiante ya que no recordaba mucho como programar, pero bien dice el sabio, lo que bien se aprende
 jamas se olvida.
+# RESUMEN
 En resumen solo necesitas que tu programa haga esto:
 PROCESO RSA (algoritmo)
 SABER COMO CIFRAR Y DESCIFRAR UN MENSAJE (rsa)
