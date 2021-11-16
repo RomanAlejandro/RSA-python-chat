@@ -73,9 +73,8 @@ La seguridad de este algoritmo radica en que no hay maneras rápidas conocidas d
 
 # CORRER EL PROGRAMA
 Corremos primero el servidor y después el cliente:
-<p align="center">
-   ![imagen](https://user-images.githubusercontent.com/71668076/141857981-d5d807ca-2ab0-4fd7-993a-3949ec35a78d.png)
-</p>
+![imagen](https://user-images.githubusercontent.com/71668076/141857981-d5d807ca-2ab0-4fd7-993a-3949ec35a78d.png)
+
 
 
 Para cliente ingresamos valores, debemos usar números primos grandes para hacer la operación y garantizar que con una computadora normal no pueda descifrarlo, ya que como sabemos los números primos son complejos de procesar.
