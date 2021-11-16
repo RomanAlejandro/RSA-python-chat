@@ -15,3 +15,10 @@ es por eso la razon de estos archivos.
     lista_nueva = bytes(f"{data_len:<{HEADER}}", 'utf-8')+data_serial #lo mandamos en una forma en que socket pueda entender
     print("LISTA A MANDAR: ",lista_nueva) #La nueva forma que tiene la lista y que vamos a mandar
     TCPCliente.send(lista_nueva) #enviamos
+    
+    #PARA RECIBIR
+    data_len2 = TCPCliente.recv(HEADER)
+    data2 = b''
+    data2 += TCPCliente.recv(int(data_len2))
+    lista_recibida = pickle.loads(data2)
+    print("LLAVE PUBLICA DEL CLIENTE: ",lista_recibida)
