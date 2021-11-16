@@ -102,3 +102,12 @@ Y así pueden estar mandándose mensajes hasta recibir un bye, chau o adios:
 # FIN
 Este proyecto fue algo desafiante ya que no recordaba mucho como programar, pero bien dice el sabio, lo que bien se aprende
 jamas se olvida.
+En resumen solo necesitas que tu programa haga esto:
+PROCESO RSA (algoritmo)
+SABER COMO CIFRAR Y DESCIFRAR UN MENSAJE (rsa)
+ - CIFRA: Con la llave publica de la otra persona
+ - DESCIFRA: Con tu propia llave privada
+INVESTIGAR SOBRE SOCKET (para establecer una conexion con otra terminal)
+ - MANDAR MENSAJE
+ - RESPONDERLO
+ - INTERCAMBIAR LAS LLAVES PUBLICAS (que este lo tengo en un apartado de la carpeta serialización)
