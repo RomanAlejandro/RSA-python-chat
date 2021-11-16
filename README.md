@@ -73,6 +73,7 @@ La seguridad de este algoritmo radica en que no hay maneras rápidas conocidas d
 
 # CORRER EL PROGRAMA
 Corremos primero el servidor y después el cliente:
+
 ![imagen](https://user-images.githubusercontent.com/71668076/141857981-d5d807ca-2ab0-4fd7-993a-3949ec35a78d.png)
 
 
