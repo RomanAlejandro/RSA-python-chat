@@ -1,4 +1,7 @@
 # RSA-python-chat
+![chat python RSA](https://user-images.githubusercontent.com/71668076/142019835-8c3f6bc8-7b91-4e76-b11a-94e9aa56abf6.jpg)
+
+# Diagrama de flujo
 Este un chat realizado en python para compreder mejor el funcionamiento del algoritmo de cifrado RSA
 ![imagen](https://user-images.githubusercontent.com/71668076/141693791-42e55d07-1253-4077-9e91-12093de0f8a5.png)
 
