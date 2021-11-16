@@ -1,3 +1,5 @@
+Los dos archivos que debes de descargar solo son "persona1-servidor" y "persona2-receptor"
+
 WINDOWS
 Abriremos dos ventanas de cmd / terminal y nos ubicaremos en la carpeta donde se encuentren nuestros archivos,
  lo vamos a correr de forma local, en una pantalla de cmd / terminal donde vamos a correr “PERSONA1-SERVIDOR.py” 
