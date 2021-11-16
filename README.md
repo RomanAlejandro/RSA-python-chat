@@ -139,4 +139,5 @@ INVESTIGAR SOBRE SOCKET (para establecer una conexion con otra terminal)
  - https://www.youtube.com/watch?v=kiowXySiuP8&list=LL&index=29&ab_channel=DavidAlejandroNinaRojas
 
  
+![imagen](https://user-images.githubusercontent.com/71668076/142059997-a6a616b8-7474-499c-9779-e5b09aff616e.png)
 
