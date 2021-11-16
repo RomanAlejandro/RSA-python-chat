@@ -1,0 +1,6 @@
+Aqui te muestro lo que hace pickle
+la serlizacion de los datos, fue uno de mis mayores
+retos que se presentaron durante el proyecto
+
+La pregunta fue ¿como enviar un contenerdor lista?
+usando la libreria pickle dumps
