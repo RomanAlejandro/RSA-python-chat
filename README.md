@@ -1,4 +1,4 @@
-# RSA-python-chat
+![Alt text]# RSA-python-chat
 ![chat python RSA](https://user-images.githubusercontent.com/71668076/142019835-8c3f6bc8-7b91-4e76-b11a-94e9aa56abf6.jpg)
 
 
@@ -76,7 +76,7 @@ La seguridad de este algoritmo radica en que no hay maneras rápidas conocidas d
 # CORRER EL PROGRAMA
 Corremos primero el servidor y después el cliente:
 
-![imagen](https://user-images.githubusercontent.com/71668076/141857981-d5d807ca-2ab0-4fd7-993a-3949ec35a78d.png){ width="800" height="600" style="display: block; margin: 0 auto" }
+![imagen](https://user-images.githubusercontent.com/71668076/141857981-d5d807ca-2ab0-4fd7-993a-3949ec35a78d.png)
 
 
 
