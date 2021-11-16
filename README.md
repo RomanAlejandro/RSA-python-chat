@@ -2,14 +2,14 @@
 ![chat python RSA](https://user-images.githubusercontent.com/71668076/142019835-8c3f6bc8-7b91-4e76-b11a-94e9aa56abf6.jpg)
 
 
-# RSA
+# RSA :closed_lock_with_key:
 
-¿QUE ES RSA?
+¿QUE ES RSA? 
 Este es un algoritmo asimétrico cifrador de bloques, que utiliza una clave pública, la cual se distribuye (en forma autenticada preferentemente), y otra privada, la cual es guardada en secreto por su propietario.
 Una clave es un número de gran tamaño, que una persona puede conceptualizar como un mensaje digital, como un archivo binario o como una cadena de bits o bytes.
 Cuando se envía un mensaje, el emisor busca la clave pública de cifrado del receptor y una vez que dicho mensaje llega al receptor, éste se ocupa de descifrarlo usando su clave oculta.
 
-# UN POCO DE HISTORIA
+# UN POCO DE HISTORIA :pencil:
 
 Un poco de historia, este es inventado 1977 y lleva la primera letra del apellido de sus creadores Ron Rives, Adi Shamir y Leonard Adleman, formando asi el algoritmo RSA, esta basa su fortaleza en la dificultad de factorizar de dos numeros primos grandes, algo que es de alta dificulta para la capacidad de las computadoras.
 
