@@ -1,4 +1,4 @@
-# RSA-python-chat :shipit:
+# RSA-python-chat :snake:
 ![chat python RSA](https://user-images.githubusercontent.com/71668076/142019835-8c3f6bc8-7b91-4e76-b11a-94e9aa56abf6.jpg)
 
 
@@ -105,7 +105,7 @@ Y así pueden estar mandándose mensajes hasta recibir un bye, chau o adios:
 
 # FIN :coffee:
 Este proyecto fue algo desafiante ya que no recordaba mucho como programar, pero bien dice el sabio, lo que bien se aprende
-jamas se olvida.
+jamas se olvida. :shipit:
 # RESUMEN :notebook:
 En resumen solo necesitas que tu programa haga esto:
 
