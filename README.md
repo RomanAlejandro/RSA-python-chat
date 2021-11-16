@@ -123,6 +123,8 @@ INVESTIGAR SOBRE SOCKET (para establecer una conexion con otra terminal)
  - RESPONDERLO
  - INTERCAMBIAR LAS LLAVES PUBLICAS (que este lo tengo en un apartado de la carpeta serialización)
 
+# HERRAMIENTA DE ELABORACIÓN DE DIAGRAMAS DE FLUJO:
+ - https://lucid.app
 
 # FUENTES:
  - https://docs.python.org/es/3.9/library/socket.html
@@ -136,5 +138,4 @@ INVESTIGAR SOBRE SOCKET (para establecer una conexion con otra terminal)
  - https://www.youtube.com/watch?v=kiowXySiuP8&list=LL&index=29&ab_channel=DavidAlejandroNinaRojas
 
  
-# HERRAMIENTA DE ELABORACIÓN DE DIAGRAMAS DE FLUJO:
- - https://lucid.app
+
