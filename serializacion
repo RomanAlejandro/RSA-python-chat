@@ -1,0 +1,2 @@
+Los archivos que aquí se encuentran son para la serializacion de una lista o realmente cualquier objeto,
+esto quiere decir que queremos mandar el contendor completo con su contenido, y no solo vertir el contenido a otro.
