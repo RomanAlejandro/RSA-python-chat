@@ -1,4 +1,4 @@
-# RSA-python-chat:shipit:
+# RSA-python-chat :shipit:
 ![chat python RSA](https://user-images.githubusercontent.com/71668076/142019835-8c3f6bc8-7b91-4e76-b11a-94e9aa56abf6.jpg)
 
 
@@ -65,7 +65,7 @@ Ahora para encriptar y desencriptar es de la siguiente manera:
  
 Parece sencillo pero recordemos que ‘e’ puedes ser un numero mucho mayor y para descifrar seria con el mensaje encriptado elevado a D mod n.
  
-SEGURIDAD RSA
+SEGURIDAD RSA :lock_with_ink_pen:
 La seguridad de este algoritmo radica en que no hay maneras rápidas conocidas de factorizar un número grande en sus factores primos utilizando computadoras tradicionales.
 
 ![imagen](https://user-images.githubusercontent.com/71668076/141694366-936a6464-cf36-4359-9fdb-e2974dca8a41.png)
@@ -73,7 +73,7 @@ La seguridad de este algoritmo radica en que no hay maneras rápidas conocidas d
 
 
 
-# CORRER EL PROGRAMA
+# CORRER EL PROGRAMA 
 Corremos primero el servidor y después el cliente:
 
 ![imagen](https://user-images.githubusercontent.com/71668076/141857981-d5d807ca-2ab0-4fd7-993a-3949ec35a78d.png)
@@ -82,7 +82,7 @@ Corremos primero el servidor y después el cliente:
 
 Para cliente ingresamos valores, debemos usar números primos grandes para hacer la operación y garantizar que con una computadora normal no pueda descifrarlo, ya que como sabemos los números primos son complejos de procesar.
 
-# EJEMPLO CORRIENDO EL PROGRAMA
+# EJEMPLO CORRIENDO EL PROGRAMA :speech_balloon:
 Para servidor:
 
 ![imagen](https://user-images.githubusercontent.com/71668076/141858891-5b647323-79bf-4248-8d59-5d0ccc7f09c2.png)
