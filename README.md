@@ -38,7 +38,7 @@ M  C^d mod n.
 Si no volver a paso 7.
 14.	FIN
 
-# EJEMPLO 
+# EJEMPLO :eyes:
 Y Si tenemos:
 
 ![imagen](https://user-images.githubusercontent.com/71668076/141694333-7e60955a-afc0-4378-aeb4-6f335b4d3a75.png)
