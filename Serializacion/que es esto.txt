@@ -1,6 +1,17 @@
-Aqui te muestro lo que hace pickle
-la serlizacion de los datos, fue uno de mis mayores
-retos que se presentaron durante el proyecto
+Los archivos que aquí se encuentran son para la serializacion de una lista o realmente cualquier objeto,
+esto quiere decir que queremos mandar el contendor completo con su contenido, y no solo vertir el contenido a otro.
 
-La pregunta fue ¿como enviar un contenerdor lista?
-usando la libreria pickle dumps
+Aqui te muestro lo que hace pickle la serlizacion de los datos, fue uno de mis mayores
+retos que se presentaron durante el proyecto La pregunta fue ¿como enviar un contenerdor lista?
+usando la libreria pickle dumps() podria converir los datos una cadena de bytes la cual mandar y poder reconstruir con su parametro loads()
+
+pero fu un reto porque antes de eso tuve que realizar un entorno ocntorlado para trabajar en un lugar mas limpio,
+donde pudiera visualizar mejor lo que hacia.
+
+es por eso la razon de estos archivos.
+    #PARA ENVIAR
+    data_serial = pickle.dumps(lista) #una lista original la convertiamos en una cadena de bytes con dumps
+    data_len = str(len(data_serial)) # de esta sacabamos su longitud su tamaño para despues convertir a string
+    lista_nueva = bytes(f"{data_len:<{HEADER}}", 'utf-8')+data_serial #lo mandamos en una forma en que socket pueda entender
+    print("LISTA A MANDAR: ",lista_nueva) #La nueva forma que tiene la lista y que vamos a mandar
+    TCPCliente.send(lista_nueva) #enviamos
