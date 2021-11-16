@@ -133,4 +133,4 @@ INVESTIGAR SOBRE SOCKET (para establecer una conexion con otra terminal)
 
  
 # HERRAMIENTA DE ELABORACIÓN DE DIAGRAMAS DE FLUJO:
-https://lucid.app
+ - https://lucid.app
