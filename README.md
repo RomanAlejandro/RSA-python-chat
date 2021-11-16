@@ -65,7 +65,7 @@ Ahora para encriptar y desencriptar es de la siguiente manera:
  
 Parece sencillo pero recordemos que ‘e’ puedes ser un numero mucho mayor y para descifrar seria con el mensaje encriptado elevado a D mod n.
  
-SEGURIDAD RSA :lock_with_ink_pen:
+# SEGURIDAD RSA :lock_with_ink_pen:
 La seguridad de este algoritmo radica en que no hay maneras rápidas conocidas de factorizar un número grande en sus factores primos utilizando computadoras tradicionales.
 
 ![imagen](https://user-images.githubusercontent.com/71668076/141694366-936a6464-cf36-4359-9fdb-e2974dca8a41.png)
@@ -115,8 +115,8 @@ PROCESO RSA (algoritmo)
  - SUS RESPECTIVOS CALCULOS
  
 SABER COMO CIFRAR Y DESCIFRAR UN MENSAJE (rsa)
- - CIFRA: Con la llave publica de la otra persona
- - DESCIFRA: Con tu propia llave privada
+ - CIFRA: Con la llave publica de la otra persona :closed_lock_with_key:
+ - DESCIFRA: Con tu propia llave privada :key::unlock:
  
 INVESTIGAR SOBRE SOCKET (para establecer una conexion con otra terminal)
  - MANDAR MENSAJE
