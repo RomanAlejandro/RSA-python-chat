@@ -99,3 +99,6 @@ No dará muchos valores que son enormes y escogeremos uno para e
 Y así pueden estar mandándose mensajes hasta recibir un bye, chau o adios:
 ![imagen](https://user-images.githubusercontent.com/71668076/141859560-5ecfa9df-89d6-47dc-a139-ae7ef01dc4a1.png)
 
+# FIN
+Este proyecto fue algo desafiante ya que no recordaba mucho como programar, pero bien dice el sabio, lo que bien se aprende
+jamas se olvida.
