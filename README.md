@@ -109,9 +109,11 @@ PROCESO RSA (algoritmo)
  - ASEGURAR QUE P y Q SEAN PRIMOS
  - QUE E SEA COOPRIMO DE ESTOS
  - SUS RESPECTIVOS CALCULOS
+ 
 SABER COMO CIFRAR Y DESCIFRAR UN MENSAJE (rsa)
  - CIFRA: Con la llave publica de la otra persona
  - DESCIFRA: Con tu propia llave privada
+ 
 INVESTIGAR SOBRE SOCKET (para establecer una conexion con otra terminal)
  - MANDAR MENSAJE
  - RESPONDERLO
