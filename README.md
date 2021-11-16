@@ -14,12 +14,12 @@ Cuando se envía un mensaje, el emisor busca la clave pública de cifrado del re
 
 Un poco de historia, este es inventado 1977 y lleva la primera letra del apellido de sus creadores Ron Rives, Adi Shamir y Leonard Adleman, formando asi el algoritmo RSA, esta basa su fortaleza en la dificultad de factorizar de dos numeros primos grandes, algo que es de alta dificulta para la capacidad de las computadoras.
 
-# Diagrama de flujo
+# DIAGRAMA DE FLUJO :memo:
 Este un chat realizado en python para compreder mejor el funcionamiento del algoritmo de cifrado RSA
 ![imagen](https://user-images.githubusercontent.com/71668076/141693791-42e55d07-1253-4077-9e91-12093de0f8a5.png)
 
 
-# ALGORITMO DEL PROGRAMA
+# ALGORITMO DEL PROGRAMA :memo:
 1.	INICIO
 2.	Hacemos los cálculos de parámetros (p,q,n,e)
 3.	Sacamos la Llave pública (n,e).
