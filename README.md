@@ -105,7 +105,7 @@ Y así pueden estar mandándose mensajes hasta recibir un bye, chau o adios:
 ![imagen](https://user-images.githubusercontent.com/71668076/141859560-5ecfa9df-89d6-47dc-a139-ae7ef01dc4a1.png)
 
 # DEMOSTRACION :alien:
-[![Watch the video](https://www.youtube.com/watch?v=lton2vjzLOE&ab_channel=RomanAlejandroGallegosMarquez)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=lton2vjzLOE&ab_channel=RomanAlejandroGallegosMarquez)
 
 
 # FIN :coffee:
