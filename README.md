@@ -131,9 +131,6 @@ INVESTIGAR SOBRE SOCKET (para establecer una conexion con otra terminal)
 # HERRAMIENTA DE ELABORACIÓN DE DIAGRAMAS DE FLUJO:
  - https://lucid.app
 
-# QR GITHUB
-![QR - GITHUB](https://user-images.githubusercontent.com/71668076/142945926-0696df3d-b53f-47f1-be98-a62022d6a5e5.png)
-
 
 # FUENTES: :pushpin:
  - https://docs.python.org/es/3.9/library/socket.html
